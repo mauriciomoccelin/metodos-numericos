@@ -4,3 +4,5 @@ A análise numérica é o estudo de algoritmos de aproximação para a solução
 ## Bissecção
 
 ## Newton-Raphson
+
+## Ajuste de Curvas
